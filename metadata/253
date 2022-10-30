@@ -1,0 +1,22 @@
+{
+  "dna": "5d007078a3d7156b2ff070e8c2d63b86",
+  "name": "Toxic Frogs  #253",
+  "description": "The toxic frogs metaverse :- meme Avatar ",
+  "image": "REPLACE-THIS-WITH-YOUR-URL/253.png",
+  "date": 1667055862341,
+  "attributes": [
+    {
+      "trait_type": "Background ",
+      "value": "2022-08-16_16"
+    },
+    {
+      "trait_type": "Frog",
+      "value": "2022-08-16_09"
+    },
+    {
+      "trait_type": "Face",
+      "value": "2022-08-16_10"
+    }
+  ],
+  "compiler": "mintables.club"
+}
